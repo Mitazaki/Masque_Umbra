@@ -19,12 +19,12 @@ if not MSQ then return end
 -- Locals
 ---
 
-local API_VERSION = 120001
+local API_VERSION = 120005
 local PATH = [[Interface\AddOns\Masque_Umbra\Textures\]]
 
 -- Skin Info
 local Authors = {"|cff999999Numbtongue|r", "|cff999999Hiraz_euw|r"}
-local Version = "12.0.1"
+local Version = "12.0.5"
 local Websites = {
 	"https://www.curseforge.com/wow/addons/masque-umbra_nt",
 }

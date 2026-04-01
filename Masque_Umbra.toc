@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120005
 ## Title: Masque: |cffa330c9Umbra|r
 
 ## Notes: Umbra skin for Masque.
@@ -10,7 +10,7 @@
 ## Notes-ruRU: Скин Umbra для Masque.
 ## Notes-zhTW: Masque的Umbra皮膚。
 
-## Version: 12.0.1
+## Version: 12.0.5
 ## Author: Hiraz
 ## Dependencies: Masque
 
